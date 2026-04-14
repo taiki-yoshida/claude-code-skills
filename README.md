@@ -9,6 +9,7 @@ Skills live in their own subdirectories. Browse each folder for its dedicated RE
 | Skill | Category | Description |
 |-------|----------|-------------|
 | [`azure-functions-mcp`](./azure-functions-mcp) | Azure · MCP | Scaffold and deploy remote MCP servers on Azure Functions (.NET isolated worker + `azure-functions-mcp-extension`). |
+| [`azure-openai`](./azure-openai) | Azure · AI | Integrate Azure OpenAI services including GPT Realtime API (gpt-realtime-1.5) for real-time audio conversations via WebRTC. |
 | [`azure-swa-functions-stack`](./azure-swa-functions-stack) | Azure · Full-stack | Scaffold and deploy React + Vite on Azure Static Web Apps paired with a standalone Azure Functions backend. |
 
 More skills will be added over time as I extract patterns from new projects.
