@@ -8,6 +8,7 @@ Skills live in their own subdirectories. Browse each folder for its dedicated RE
 
 | Skill | Category | Description |
 |-------|----------|-------------|
+| [`general-prerequisites`](./general-prerequisites) | Practice · Safety | Pre-flight prerequisite check before implementation work — hobby vs production, LLM-specific risks, cost, legal, data durability. Based on the comment thread of 伊勢川暁's Qiita article on amateur vibe coders. |
 | [`azure-functions-mcp`](./azure-functions-mcp) | Azure · MCP | Scaffold and deploy remote MCP servers on Azure Functions (.NET isolated worker + `azure-functions-mcp-extension`). |
 | [`azure-openai`](./azure-openai) | Azure · AI | Integrate Azure OpenAI services including GPT Realtime API (gpt-realtime-1.5) for real-time audio conversations via WebRTC. |
 | [`azure-swa-functions-stack`](./azure-swa-functions-stack) | Azure · Full-stack | Scaffold and deploy React + Vite on Azure Static Web Apps paired with a standalone Azure Functions backend. |
